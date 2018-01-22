@@ -5,4 +5,4 @@ Code to my YouTube Tutorials to Learn Web Scraping. All these tutorials are for 
 
 2)  
 
-3) Fitness 2 - 
+3) Fitness 2 - Link to tutorial:  https://youtu.be/oZUGd6UfQ54
