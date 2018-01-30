@@ -6,3 +6,5 @@ Code to my YouTube Tutorials to Learn Web Scraping. All these tutorials are for 
 2)  Fitness 1 () - Coming soon.
 
 3) Fitness 2 (Tumbling) - Link to tutorial:  https://youtu.be/oZUGd6UfQ54
+
+4) Fitness 3 (Hula) - Link to tutorial: https://youtu.be/vsVirAK6eck
